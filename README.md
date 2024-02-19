@@ -55,7 +55,6 @@
 ## Structured data models
 *Publicly-available*:
 - [EHR-SHOT | CLMBR](https://som-shahlab.github.io/ehrshot-website/)
-- [MedBERT](https://www.nature.com/articles/s41746-021-00455-y#code-availability)
 
 *Proprietary*:
 - [EHRBert](https://medinform.jmir.org/2019/3/e14830/)
