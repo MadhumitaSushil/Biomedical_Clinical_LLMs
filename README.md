@@ -23,6 +23,7 @@
 
 ## Decoder-only language models
 *Publicly Available*:
+- [clinicalXLNet](https://github.com/lindvalllab/clinicalXLNet)
 - [BiomedLM](https://crfm.stanford.edu/2022/12/15/biomedlm.html)
 - [BioGPT](https://github.com/microsoft/BioGPT)
 - [PMC-Llama](https://arxiv.org/abs/2304.14454)
@@ -57,9 +58,12 @@
 - [MedBERT](https://www.nature.com/articles/s41746-021-00455-y#code-availability)
 
 *Proprietary*:
+- [EHRBert](https://medinform.jmir.org/2019/3/e14830/)
 - [MedBERT](https://www.nature.com/articles/s41746-021-00455-y)
 - [RareBERT](https://ojs.aaai.org/index.php/AAAI/article/view/16122)
 - [CEHR-Bert](https://proceedings.mlr.press/v158/pang21a.html)
+- [Claim-PT](https://www.nature.com/articles/s41598-022-07545-1)
+- [BEHRT: Transformer for Electronic Health Records](https://www.nature.com/articles/s41598-020-62922-y)
 
 ## Application-specific models
 - [Stanford-Penn MIDRC Deidentifier](https://academic.oup.com/jamia/article/30/2/318/6843283)
