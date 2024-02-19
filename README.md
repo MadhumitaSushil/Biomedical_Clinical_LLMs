@@ -34,7 +34,7 @@
 ## Multimodal models
 *Publicly Available*:
 - [BiomedCLIP](https://arxiv.org/abs/2303.00915)
-- [PMC-VQA](https://xiaoman-zhang.github.io/PMC-VQA/)
+- [PMC-VQA | MedVInt](https://xiaoman-zhang.github.io/PMC-VQA/)
 - [LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
 - [MedFlamingo](https://github.com/snap-stanford/med-flamingo)
 - [XRayGPT](https://github.com/mbzuai-oryx/XrayGPT)
