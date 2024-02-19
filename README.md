@@ -1,4 +1,4 @@
-# Biomedical and clinical transformers-based models (LLMs) for language and multimodal inference
+# Biomedical and clinical LLMs for language and multimodal inference
 
 ## Encoder-only language models
 *Publicly Available*:
