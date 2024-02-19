@@ -30,7 +30,6 @@
 - [MediTron](https://github.com/epfLLM/meditron)
 - [BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/abs/2402.10373)
 - [Palmyra-Med](https://huggingface.co/Writer/palmyra-med-20b)
-- [Stanford-Penn MIDRC Deidentifier](https://academic.oup.com/jamia/article/30/2/318/6843283)
 
 *Proprietary*:
 - [GatorTronGPT](https://arxiv.org/abs/2305.13523)
@@ -61,6 +60,9 @@
 - [MedBERT](https://www.nature.com/articles/s41746-021-00455-y)
 - [RareBERT](https://ojs.aaai.org/index.php/AAAI/article/view/16122)
 - [CEHR-Bert](https://proceedings.mlr.press/v158/pang21a.html)
+
+## Application-specific models
+- [Stanford-Penn MIDRC Deidentifier](https://academic.oup.com/jamia/article/30/2/318/6843283)
 
 ## Models using synthetic data
 - [Asclepius](https://github.com/starmpcc/Asclepius)
