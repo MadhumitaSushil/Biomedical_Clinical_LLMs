@@ -23,6 +23,7 @@
 ## Decoder-only language models
 *Publicly Available*:
 - [BiomedLM](https://crfm.stanford.edu/2022/12/15/biomedlm.html)
+- [BioGPT](https://github.com/microsoft/BioGPT)
 - [PMC-Llama](https://arxiv.org/abs/2304.14454)
 - [MedAlpaca](https://arxiv.org/abs/2304.08247)
 - [MediTron](https://github.com/epfLLM/meditron)
