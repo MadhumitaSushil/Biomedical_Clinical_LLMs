@@ -50,7 +50,13 @@
 - [MedPalm-M](https://arxiv.org/abs/2307.14334)
 
 ## Structured data models
+*Publicly-available*:
 - [EHR-SHOT | CLMBR](https://som-shahlab.github.io/ehrshot-website/)
+
+*Proprietary*:
+- [MedBERT](https://www.nature.com/articles/s41746-021-00455-y)
+- [RareBERT](https://ojs.aaai.org/index.php/AAAI/article/view/16122)
+- [CEHR-Bert](https://proceedings.mlr.press/v158/pang21a.html)
 
 ## Models using synthetic data
 - [Asclepius](https://github.com/starmpcc/Asclepius)
