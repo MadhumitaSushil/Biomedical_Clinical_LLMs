@@ -9,7 +9,8 @@
 - [BlueBERT](https://github.com/ncbi-nlp/bluebert)
 - [BioLM](https://github.com/facebookresearch/bio-lm)
 - [GatorTron](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/gatortron_og)
-  
+- [DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains](https://arxiv.org/abs/2304.00958)
+
 *Proprietary*:
 - [UCSF-BERT](https://arxiv.org/abs/2210.06566)
 - [NYUTron](https://www.nature.com/articles/s41586-023-06160-y)
@@ -28,6 +29,8 @@
 - [MedAlpaca](https://arxiv.org/abs/2304.08247)
 - [MediTron](https://github.com/epfLLM/meditron)
 - [BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/abs/2402.10373)
+- [Palmyra-Med](https://huggingface.co/Writer/palmyra-med-20b)
+- [Stanford-Penn MIDRC Deidentifier](https://academic.oup.com/jamia/article/30/2/318/6843283)
 
 *Proprietary*:
 - [GatorTronGPT](https://arxiv.org/abs/2305.13523)
@@ -52,6 +55,7 @@
 ## Structured data models
 *Publicly-available*:
 - [EHR-SHOT | CLMBR](https://som-shahlab.github.io/ehrshot-website/)
+- [MedBERT](https://www.nature.com/articles/s41746-021-00455-y#code-availability)
 
 *Proprietary*:
 - [MedBERT](https://www.nature.com/articles/s41746-021-00455-y)
@@ -60,3 +64,4 @@
 
 ## Models using synthetic data
 - [Asclepius](https://github.com/starmpcc/Asclepius)
+- [GatorTron-S](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/gatortron_s)
