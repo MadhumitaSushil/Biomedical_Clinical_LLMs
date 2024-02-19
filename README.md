@@ -12,6 +12,7 @@
   
 *Proprietary*:
 - [UCSF-BERT](https://arxiv.org/abs/2210.06566)
+- [NYUTron](https://www.nature.com/articles/s41586-023-06160-y)
 
 ## Encoder-decoder language models
 *Publicly Available*:
@@ -33,18 +34,23 @@
 ## Multimodal models
 *Publicly Available*:
 - [BiomedCLIP](https://arxiv.org/abs/2303.00915)
+- [PMC-VQA](https://xiaoman-zhang.github.io/PMC-VQA/)
 - [LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
 - [MedFlamingo](https://github.com/snap-stanford/med-flamingo)
+- [XRawGPT](https://github.com/mbzuai-oryx/XrayGPT)
 - [BiomedGPT](https://arxiv.org/abs/2305.17100)
+- [KAD](https://www.nature.com/articles/s41467-023-40260-7)
 
 *Proprietary*:
 - [MedPalm](https://www.nature.com/articles/s41586-023-06291-2)
 - [MedPalm2](https://arxiv.org/abs/2305.09617)
 - [MedLM](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry)
+- [ELIXR](https://arxiv.org/abs/2308.01317)
+- [Flamingo-CXR](https://arxiv.org/abs/2311.18260)
 - [MedPalm-M](https://arxiv.org/abs/2307.14334)
 
 ## Structured data models
-- 
+- [EHR-SHOT | CLMBR](https://som-shahlab.github.io/ehrshot-website/)
 
 ## Models using synthetic data
 - [Asclepius](https://github.com/starmpcc/Asclepius)
