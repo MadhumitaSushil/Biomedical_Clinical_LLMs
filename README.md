@@ -44,7 +44,6 @@
 - [KAD](https://www.nature.com/articles/s41467-023-40260-7)
 
 *Proprietary*:
-- [MedLM](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry)
 - [ELIXR](https://arxiv.org/abs/2308.01317)
 - [Flamingo-CXR](https://arxiv.org/abs/2311.18260)
 - [MedPalm-M](https://arxiv.org/abs/2307.14334)
