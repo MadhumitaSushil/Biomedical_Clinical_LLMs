@@ -37,7 +37,7 @@
 - [PMC-VQA](https://xiaoman-zhang.github.io/PMC-VQA/)
 - [LLaVA-Med](https://github.com/microsoft/LLaVA-Med)
 - [MedFlamingo](https://github.com/snap-stanford/med-flamingo)
-- [XRawGPT](https://github.com/mbzuai-oryx/XrayGPT)
+- [XRayGPT](https://github.com/mbzuai-oryx/XrayGPT)
 - [BiomedGPT](https://arxiv.org/abs/2305.17100)
 - [KAD](https://www.nature.com/articles/s41467-023-40260-7)
 
