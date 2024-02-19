@@ -1,4 +1,4 @@
-# Biomedical-LLMs
+# Biomedical and clinical transformers-based models (LLMs) for language and multimodal inference
 
 ## Encoder-only language models
 *Publicly Available*:
@@ -42,6 +42,9 @@
 - [MedPalm2](https://arxiv.org/abs/2305.09617)
 - [MedLM](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry)
 - [MedPalm-M](https://arxiv.org/abs/2307.14334)
+
+## Structured data models
+- 
 
 ## Models using synthetic data
 - [Asclepius](https://github.com/starmpcc/Asclepius)
