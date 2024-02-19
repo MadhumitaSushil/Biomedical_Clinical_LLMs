@@ -30,6 +30,8 @@
 
 *Proprietary*:
 - [GatorTronGPT](https://arxiv.org/abs/2305.13523)
+- [MedPalm](https://www.nature.com/articles/s41586-023-06291-2)
+- [MedPalm2](https://arxiv.org/abs/2305.09617)
 
 ## Multimodal models
 *Publicly Available*:
@@ -42,8 +44,6 @@
 - [KAD](https://www.nature.com/articles/s41467-023-40260-7)
 
 *Proprietary*:
-- [MedPalm](https://www.nature.com/articles/s41586-023-06291-2)
-- [MedPalm2](https://arxiv.org/abs/2305.09617)
 - [MedLM](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry)
 - [ELIXR](https://arxiv.org/abs/2308.01317)
 - [Flamingo-CXR](https://arxiv.org/abs/2311.18260)
