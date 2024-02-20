@@ -29,6 +29,7 @@
 - [PMC-Llama](https://arxiv.org/abs/2304.14454)
 - [MedAlpaca](https://arxiv.org/abs/2304.08247)
 - [MediTron](https://github.com/epfLLM/meditron)
+- [Med42](https://huggingface.co/m42-health/med42-70b)
 - [BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/abs/2402.10373)
 - [Palmyra-Med](https://huggingface.co/Writer/palmyra-med-20b)
 
