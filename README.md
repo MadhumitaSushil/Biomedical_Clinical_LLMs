@@ -8,10 +8,13 @@
 - [PubmedBERT](https://dl.acm.org/doi/10.1145/3458754)
 - [BlueBERT](https://github.com/ncbi-nlp/bluebert)
 - [BioLM](https://github.com/facebookresearch/bio-lm)
+- [Clinical-Longformer](https://huggingface.co/yikuan8/Clinical-Longformer)
+- [Clinical-BigBird](https://huggingface.co/yikuan8/Clinical-BigBird)
 - [GatorTron](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/gatortron_og)
 - [DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains](https://arxiv.org/abs/2304.00958)
 
 *Proprietary*:
+- [CancerBERT](https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocac040)
 - [UCSF-BERT](https://arxiv.org/abs/2210.06566)
 - [NYUTron](https://www.nature.com/articles/s41586-023-06160-y)
 
