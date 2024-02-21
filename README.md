@@ -12,6 +12,7 @@
 - [Clinical-BigBird](https://huggingface.co/yikuan8/Clinical-BigBird)
 - [GatorTron](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/gatortron_og)
 - [DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains](https://arxiv.org/abs/2304.00958)
+- [BioSimCSE](https://huggingface.co/kamalkraj/BioSimCSE-BioLinkBERT-BASE)
 
 *Proprietary*:
 - [CancerBERT](https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocac040)
