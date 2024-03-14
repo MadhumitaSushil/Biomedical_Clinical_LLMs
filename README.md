@@ -34,11 +34,16 @@
 - [PMC-Llama](https://arxiv.org/abs/2304.14454)
 - [MedAlpaca](https://arxiv.org/abs/2304.08247)
 - [Clinical Camel](https://huggingface.co/wanglab/ClinicalCamel-70B)
+- [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
 - [MediTron](https://github.com/epfLLM/meditron)
 - [Med42](https://huggingface.co/m42-health/med42-70b)
 - [BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/abs/2402.10373)
 - [Palmyra-Med](https://huggingface.co/Writer/palmyra-med-20b)
 - [Taiyi](https://github.com/DUTIR-BioNLP/Taiyi-LLM?tab=readme-ov-file#introduction-to-the-base-model)
+
+*Models trained on MIMIC but unavailable*:
+- [DRG-LLaMA](https://github.com/hanyin88/drg-llama) 
+- [Clinical Llama-LORA](https://arxiv.org/abs/2307.03042)
 
 *Proprietary*:
 - [GatorTronGPT](https://arxiv.org/abs/2305.13523)
