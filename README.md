@@ -59,6 +59,7 @@
 - [XRayGPT](https://github.com/mbzuai-oryx/XrayGPT)
 - [BiomedGPT](https://arxiv.org/abs/2305.17100)
 - [KAD](https://www.nature.com/articles/s41467-023-40260-7)
+- [CONCH](https://github.com/mahmoodlab/CONCH) Computational pathology model
 
 *Proprietary*:
 - [ELIXR](https://arxiv.org/abs/2308.01317)
