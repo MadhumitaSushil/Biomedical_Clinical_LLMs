@@ -49,6 +49,7 @@
 - [GatorTronGPT](https://arxiv.org/abs/2305.13523)
 - [MedPalm](https://www.nature.com/articles/s41586-023-06291-2)
 - [MedPalm2](https://arxiv.org/abs/2305.09617)
+- [Polaris](https://arxiv.org/abs/2403.13313) by HippocraticAI
 
 ## Multimodal models
 *Publicly Available*:
