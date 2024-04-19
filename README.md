@@ -40,6 +40,8 @@
 - [BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/abs/2402.10373)
 - [Palmyra-Med](https://huggingface.co/Writer/palmyra-med-20b)
 - [Taiyi](https://github.com/DUTIR-BioNLP/Taiyi-LLM?tab=readme-ov-file#introduction-to-the-base-model)
+- [JSL-MedMNX-7B-SFT](https://huggingface.co/johnsnowlabs/JSL-MedMNX-7B-SFT)
+- [JSL-MedMNX-7B](https://huggingface.co/johnsnowlabs/JSL-MedMNX-7B)
 
 *Models trained on MIMIC but unavailable*:
 - [DRG-LLaMA](https://github.com/hanyin88/drg-llama) 
