@@ -42,7 +42,10 @@
 - [Taiyi](https://github.com/DUTIR-BioNLP/Taiyi-LLM?tab=readme-ov-file#introduction-to-the-base-model)
 - [JSL-MedMNX-7B-SFT](https://huggingface.co/johnsnowlabs/JSL-MedMNX-7B-SFT)
 - [JSL-MedMNX-7B](https://huggingface.co/johnsnowlabs/JSL-MedMNX-7B)
-
+- [Internist.ai 7B](https://huggingface.co/internistai/base-7b-v0.2)
+- [Saama AI OpenBioLLM-8B](https://huggingface.co/aaditya/Llama3-OpenBioLLM-8B)
+- [Saama AI OpenBioLLM-70B](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B) 
+ 
 *Models trained on MIMIC but unavailable*:
 - [DRG-LLaMA](https://github.com/hanyin88/drg-llama) 
 - [Clinical Llama-LORA](https://arxiv.org/abs/2307.03042)
