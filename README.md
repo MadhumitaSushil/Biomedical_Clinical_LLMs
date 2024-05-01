@@ -38,6 +38,7 @@
 - [MediTron](https://github.com/epfLLM/meditron)
 - [Med42](https://huggingface.co/m42-health/med42-70b)
 - [BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/abs/2402.10373)
+- [Me LLaMA: Foundation Large Language Models for Medical Applications](https://github.com/BIDS-Xu-Lab/Me-LLaMA)
 - [Palmyra-Med](https://huggingface.co/Writer/palmyra-med-20b)
 - [Taiyi](https://github.com/DUTIR-BioNLP/Taiyi-LLM?tab=readme-ov-file#introduction-to-the-base-model)
 - [JSL-MedMNX-7B-SFT](https://huggingface.co/johnsnowlabs/JSL-MedMNX-7B-SFT)
